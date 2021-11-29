@@ -648,11 +648,6 @@ a:hover {
     outline: 0;
     -webkit-box-shadow: none;
             box-shadow: none; }
-  .footer__area .subscribe__form form .form-row {
-    text-align: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
   .footer__area .subscribe__form p {
     color: #cccccc;
     font-family: var(--secondary__font);
